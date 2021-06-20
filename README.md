@@ -14,9 +14,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@pragyatwinkle06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@pragyatwinkle06" height="30" width="40" /></a>
+<a href="https://codepen.io/pragyatwinkle06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@pragyatwinkle06" height="30" width="40" /></a>
 <a href="https://twitter.com/pragyashukla06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pragyashukla06" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pragyashukla06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pragyashukla06" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pragya-shukla-06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pragyashukla06" height="30" width="40" /></a>
 <a href="https://instagram.com/pragya_twinkle_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pragya_twinkle_06" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/64_ pragya shukla a3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="64_ pragya shukla a3" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pragyatwinkle06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pragyatwinkle06" height="30" width="40" /></a>
